@@ -8,7 +8,7 @@
         <property name="connection.driver_class">com.mysql.cj.jdbc.Driver</property>
         <property name="connection.url">jdbc:mysql://172.168.128.250:3306/AE2_Acceso_DatosDB</property>
         <property name="connection.username">remote</property>
-        <property name="connection.password">Seong476</property>
+        <property name="connection.password">*******</property>
 
         <!-- SQL dialect -->
         <property name="dialect">org.hibernate.dialect.MySQL8Dialect</property>
